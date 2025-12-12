@@ -31,6 +31,9 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
+# Documentation (internal use only)
+docs/
+
 # Temporary files
 *.txt
 !requirements.txt
